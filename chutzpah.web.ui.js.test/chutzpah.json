@@ -1,0 +1,6 @@
+{
+  "Framework": "jasmine",
+  "AMDBaseUrl": "tests",
+  "TestHarnessReferenceMode": "AMD",
+  "TestHarnessLocationMode": "SettingsFileAdjacent"
+}
